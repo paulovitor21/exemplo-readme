@@ -3,11 +3,11 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+NaturaSSP é uma aplicação full stack web do tipo loja virtual 
+
+A aplicação consiste em um catalogos de produtos, onde os clientes podem escolher seu produto, e depois realizar a compra. O sistema apresenta um dashboard onde o administrador pode gerenciar a venda de seus produtos.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
